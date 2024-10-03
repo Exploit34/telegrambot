@@ -1,0 +1,29 @@
+=====PASO 1=====
+Romper la nevera
+
+=====PASO 2=====
+¡Tomar una salchicha! +20 de fama
+¡Tomar un pescado! +20 de fama
+¡Tirar una lata de pepinillos! +20 de fama
+
+=====PASO 3=====
+Romper al robot aspirador
+
+=====PASO 4=====
+Enviar al robot aspirador a por comida! +30 de fama
+Dar un paseo en el robot aspirador! +30 de fama
+¡Huir del robot aspirador! +30 de fama
+
+=====PASO 5=====
+Encender y ponerse la GoPro!
+
+=====PASO 6=====
+¡Correr por los tejados, grabar con la GoPro! +40 de fama
+¡Atacar a otros gatos desde tu escondite con la GoPro! +40 de fama
+¡Atacar a los perros desde tu escondite con la GoPro! +40 de fama
+
+=====PASO 7=====
+Romper la contraseña
+
+=====PASO 8=====
+Salir al patio
